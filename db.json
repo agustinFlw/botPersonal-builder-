@@ -1,0 +1,183 @@
+[
+  {
+    "ref": "ans_e7e51f4b-403d-4732-8d54-1bf36bed6b7f",
+    "keyword": "key_82bbe4d1-1a7d-411b-8f2e-071e54179635",
+    "answer": "bot andando",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "168e4afa13326ed4b5b049ee7bd5ce8b",
+    "from": "5493482758596"
+  },
+  {
+    "ref": "d15d7972-4455-4ca5-8b72-ab6ed2ae25d4",
+    "keyword": "168e4afa13326ed4b5b049ee7bd5ce8b",
+    "answer": "Vaaaaamoooo",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "4245be04df5b02cc731e5c10c76769e8"
+  },
+  {
+    "ref": "0a6d9e7f-a268-48f5-943a-443c2d344563",
+    "keyword": "4245be04df5b02cc731e5c10c76769e8",
+    "answer": "Amor que bueno!!!!",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "e0fc22062d29ff3a98483689362bd312"
+  },
+  {
+    "ref": "1fbfe046-b12d-40c9-8319-6a25151758bc",
+    "keyword": "e0fc22062d29ff3a98483689362bd312",
+    "answer": "Se celebra fuerte cuando vengas",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "719574a49a11cc5ad67f0ff657ca8638"
+  },
+  {
+    "ref": "ac072cbe-d5b7-453b-932c-2ae283971986",
+    "keyword": "719574a49a11cc5ad67f0ff657ca8638",
+    "answer": "!ejemplos",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "056b2b9e2be2f32a8264900fbd37005e"
+  },
+  {
+    "ref": "ans_1969355c-a4bb-4b04-941f-f0cf88dac82d",
+    "keyword": "key_7dc2458f-5629-48fa-aa1d-8f4d9cc5a126",
+    "answer": "👨‍💻 *Ejemplos disponibles:*\n📱 *1*. Taller de motos.\n📱 *2*. Cosmetica.\n*Por favor, elige el número de la opción que te interesa.*",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "224cb5f65f490d505326bf1398a7fed8",
+    "from": "5493482758596"
+  },
+  {
+    "ref": "4774a911-1e43-4f55-9384-c39167511efc",
+    "keyword": "224cb5f65f490d505326bf1398a7fed8",
+    "answer": "Esaaaaa",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "06988a81e408ab75c2085fd2a9a33410"
+  },
+  {
+    "ref": "5aab5c60-aa71-4475-a769-26b9add58c94",
+    "keyword": "06988a81e408ab75c2085fd2a9a33410",
+    "answer": "!beneficios",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "f0f9a313004a352a27fdf798da6cec2f"
+  },
+  {
+    "ref": "ans_8aa1dfb6-0715-4494-8efb-67211b7b507b",
+    "keyword": "key_936f5976-5969-45e5-be94-e2182ffa0e8e",
+    "answer": "👨‍💻 *¿Que beneficios ofrece un bot?*\n-Respuestas instantaneas para tus clientes.\n-Respuestas automatizadas a consultas.\n-Atencion 24Hs\n-Agrega profecionalismo a la marca\n-Aunque tu telefono esté apagado, el bot sigue funcionando\n-Aprovechas tu tiempo mientra el bot interactua con tus clientes",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "8112c8b6bb033934f92602f6ad982afc",
+    "from": "5493482758596"
+  },
+  {
+    "ref": "99dd3b68-9c53-4dee-aef5-d284bfa18650",
+    "keyword": "8112c8b6bb033934f92602f6ad982afc",
+    "answer": "Hello how are You?",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "71b966c9ccd7d27c14baf1828dc18b72"
+  },
+  {
+    "ref": "ba970c4b-a4a1-4c56-a71b-5be28c3cf5e3",
+    "keyword": "71b966c9ccd7d27c14baf1828dc18b72",
+    "answer": "Jajajjaaj",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "09dae139c41c29a1fd19333a6c21f1b9"
+  },
+  {
+    "ref": "d6aa4922-722f-4353-8293-23562eb1522c",
+    "keyword": "09dae139c41c29a1fd19333a6c21f1b9",
+    "answer": "Anda amor",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "5321916b0bbde2acbb513f53735182bb"
+  },
+  {
+    "ref": "e6beefea-8393-4904-a757-2a03e3c66847",
+    "keyword": "5321916b0bbde2acbb513f53735182bb",
+    "answer": "Te re felicito gordito",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "d0f4687f8ba461eee8355df255d69c13"
+  },
+  {
+    "ref": "8e491e99-6c47-4d6e-bf11-ec331ec49841",
+    "keyword": "d0f4687f8ba461eee8355df255d69c13",
+    "answer": "Si",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "611b2bffc5c8bf7a02f45d2060b32e20"
+  },
+  {
+    "ref": "2c818281-a001-4340-aec9-ff3515421fc3",
+    "keyword": "611b2bffc5c8bf7a02f45d2060b32e20",
+    "answer": "_event_media__193a33e1-8b2f-4311-93d0-27f1409abdb3",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "98b5925802fd16f38d617d48bf2fd370"
+  },
+  {
+    "ref": "b9393fbf-e976-4657-b764-3379640d98a2",
+    "keyword": "98b5925802fd16f38d617d48bf2fd370",
+    "answer": "Este no",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "2c3f83ec41aad15c78a4184def8d8eb4"
+  },
+  {
+    "ref": "8a8aa5bd-014c-466d-ac75-87c8c653bd6b",
+    "keyword": "2c3f83ec41aad15c78a4184def8d8eb4",
+    "answer": "_event_media__0f9c265d-8950-4d48-b6d3-0060db737057",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "c4d31a4b490d0f2fab38bc87aa4ee441"
+  },
+  {
+    "ref": "294c2f10-b9fd-4f3e-a2b7-e23410d7dd48",
+    "keyword": "c4d31a4b490d0f2fab38bc87aa4ee441",
+    "answer": "Perfecto anda",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "83b8a0946ae267de0f752b21f1c18e70"
+  },
+  {
+    "ref": "498b08c1-72b1-418e-807d-5100f8ebe144",
+    "keyword": "83b8a0946ae267de0f752b21f1c18e70",
+    "answer": "_event_voice_note__fc2b9982-c20f-48ab-b98a-3d538e1f5121",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "198d8c460eb230506dc3e1e9b59f68a5"
+  },
+  {
+    "ref": "ed3940c6-fc10-4b3b-a321-e63f1a15822c",
+    "keyword": "198d8c460eb230506dc3e1e9b59f68a5",
+    "answer": "_event_media__76706294-d2bb-4715-958b-645bfb9ae4c2",
+    "options": {},
+    "from": "5493482758596",
+    "refSerialize": "d6d7c99466a0e2726b4b2b06d07dfdb3"
+  }
+]
