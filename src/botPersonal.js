@@ -6,7 +6,7 @@ import { BaileysProvider as Provider } from '@builderbot/provider-baileys'
 
 const PORT = process.env.PORT ?? 3003
 
-const flowActivo= addKeyword('!bot').addAnswer('bot andando','probar !ejemplos !beneficios')
+const flowActivo= addKeyword('!bot').addAnswer('🤖 Bot andando, probar !ejemplos !beneficios')
 
 const flowBeneficios= addKeyword('!beneficio')
     .addAnswer(
